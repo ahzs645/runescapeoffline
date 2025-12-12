@@ -1,0 +1,6 @@
+[submodule "rsc-client"]
+	path = rsc-client
+	url = https://github.com/2003scape/rsc-client.git
+[submodule "rsc-server"]
+	path = rsc-server
+	url = https://github.com/2003scape/rsc-server.git
